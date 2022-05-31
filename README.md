@@ -14,8 +14,6 @@ My Portfolio built with React.
 
 Get the code.
 
- <pre>git clone https://github.com/ninjadev101/react-portfolio.git</pre>
-
 Install required dependencies
 
 <pre>yarn install</pre>
