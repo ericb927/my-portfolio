@@ -161,7 +161,7 @@ const dataportfolio = [
 
 const contactConfig = {
   YOUR_EMAIL: 'ericbai927@gmail.com',
-  YOUR_FONE: '(415)341-9909',
+  YOUR_FONE: '(450)232-9262',
   description:
     'Available for contract work, freelance, and consulting. I am always open to discussing new opportunities',
   YOUR_SERVICE_ID: 'service_id',
