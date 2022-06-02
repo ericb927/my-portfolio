@@ -1,8 +1,8 @@
-const logotext = 'ERIC B.';
+const logotext = 'ERIC';
 const meta = {
-  title: 'Eric B.',
+  title: 'Eric',
   description:
-    'I’m Eric, a senior full stack devloper from Canada. I’m passionate about web, mobile and blockchain development and I love to create.'
+    'I’m Eric, a senior full stack devloper. I’m passionate about web, mobile and blockchain development and I love to create.'
 };
 
 const introdata = {
@@ -172,7 +172,7 @@ const contactConfig = {
 const socialprofils = {
   github: 'https://github.com/ericobi',
   facebook: 'https://facebook.com',
-  linkedin: 'https://www.linkedin.com',
+  linkedin: 'https://www.linkedin.com/in/eric-a3a766240/',
   twitter: 'https://twitter.com',
   youtube: 'https://youtube.com',
   twitch: 'https://twitch.com'
