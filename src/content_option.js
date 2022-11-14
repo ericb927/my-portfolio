@@ -2,7 +2,7 @@ const logotext = 'ERIC';
 const meta = {
   title: 'Eric',
   description:
-    'I’m Eric, a senior full stack devloper. I’m passionate about web, mobile and blockchain development and I love to create.'
+    'I’m Eric, a senior software engineer. I’m passionate about web, mobile and blockchain development and I love to create.'
 };
 
 const introdata = {
@@ -13,14 +13,14 @@ const introdata = {
     third: 'I develop mobile apps'
   },
   description:
-    'A senior full stack devloper from Canada. I’m passionate about web, mobile and blockchain development and I love to contribute to startup companies.',
+    'A senior software engineer from Canada. I’m passionate about web, mobile and blockchain development and I love to contribute to startup companies.',
   your_img_url: '/images/giphy.gif'
 };
 
 const dataabout = {
   title: 'abit about my self',
   aboutme:
-    'I’m Eric, a senior full stack devloper from Canada. \nMy goal is to create a better world through technology. I’m passionate about learning new technologies and building things that help people. \nMy previous roles have included a web developer, a mobile developer, a blockchain developer, a lead developer, a project manager, a cheif technical officer and a co-founder. \nI’m currently looking for a remote role in a startup company.'
+    'I’m Eric, a senior software engineer from Canada. \nMy goal is to create a better world through technology. I’m passionate about learning new technologies and building things that help people. \nMy previous roles have included a web developer, a mobile developer, a blockchain developer, a lead developer, a project manager, a cheif technical officer and a co-founder. \nI’m currently looking for a remote full time role in a startup company or medium sized company.'
 };
 
 const skills = [
@@ -33,20 +33,16 @@ const skills = [
     value: 85
   },
   {
-    name: 'Solidity',
-    value: 90
-  },
-  {
     name: 'Jquery',
     value: 100
   },
   {
     name: 'ReactJS',
-    value: 90
+    value: 100
   },
   {
     name: 'VueJS',
-    value: 80
+    value: 100
   },
   {
     name: 'React Native',
@@ -58,11 +54,11 @@ const skills = [
   },
   {
     name: 'NodeJS',
-    value: 90
+    value: 100
   },
   {
     name: 'Python',
-    value: 80
+    value: 90
   },
   {
     name: 'Rust',
@@ -73,27 +69,31 @@ const skills = [
     value: 70
   },
   {
+    name: 'Solidity',
+    value: 90
+  },
+  {
     name: 'Others...',
-    value: 70
+    value: 80
   }
 ];
 
 const services = [
   {
-    title: 'Blockchain',
-    description:
-      'I am passionate about blockchain development. From smart contract development to metaverse development, I’m always looking for new ways to improve the web3.'
-  },
-  {
     title: 'Web Development',
     description:
-      'I am a huge fan of web development. I love to create beautiful and functional websites.'
+      'I am a huge fan of web development. I love to create beautiful and functional websites, dashboards and webapps.'
   },
   {
     title: 'Mobile Apps',
     description:
       'Making hybrid apps is my passion. I love to create apps for both iOS and Android using React Native or Flutter.'
-  }
+  },
+  {
+    title: 'Blockchain',
+    description:
+      'I am passionate about blockchain development. From smart contract development to metaverse development, I’m always looking for new ways to improve the web3.'
+  },
 ];
 
 const dataportfolio = [
@@ -160,19 +160,19 @@ const dataportfolio = [
 ];
 
 const contactConfig = {
-  YOUR_EMAIL: 'ericbai927@gmail.com',
-  YOUR_FONE: '(450)232-9262',
+  YOUR_EMAIL: 'ericobi.lee@gmail.com',
+  YOUR_FONE: '+1(450)232-9262',
   description:
-    'Available for contract work, freelance, and consulting. I am always open to discussing new opportunities',
-  YOUR_SERVICE_ID: 'service_id',
-  YOUR_TEMPLATE_ID: 'template_id',
-  YOUR_USER_ID: 'user_id'
+    'Available for full time roles, contracts, part time projects, and consulting. I am always open to discussing new opportunities',
+  YOUR_SERVICE_ID: 'service_ic6c98u',
+  YOUR_TEMPLATE_ID: 'template_597yygo',
+  YOUR_USER_ID: 'bejEx8ByxYykYbOX1'
 };
 
 const socialprofils = {
   github: 'https://github.com/ericobi',
   facebook: 'https://facebook.com',
-  linkedin: 'https://www.linkedin.com/in/eric-a3a766240/',
+  linkedin: 'https://www.linkedin.com/in/eric-lee-a3a766240/',
   twitter: 'https://twitter.com',
   youtube: 'https://youtube.com',
   twitch: 'https://twitch.com'
